@@ -9,7 +9,7 @@
   "dependencies": {
     "autobind-decorator": "^2.4.0",
     "axios": "^0.18.0",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "numeral": "^2.0.6",
